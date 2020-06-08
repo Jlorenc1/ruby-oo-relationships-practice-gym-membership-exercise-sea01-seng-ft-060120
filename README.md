@@ -49,3 +49,7 @@ Here's what we need to be able to do.
   - Get a list of the names of all lifters that have a membership to that gym
 
   - Get the combined lift total of every lifter has a membership to that gym
+
+1. Lyfter
+2. Gym 
+3. Membership
